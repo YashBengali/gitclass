@@ -8,3 +8,7 @@ Created on Thu Sep 16 23:37:48 2021
 
 def helloWorld():
     print("hello world")
+
+
+def subtract(x,y):
+    return x-y
